@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/73f48c6c-6e34-4160-80c6-9286ed5745c6)
+
 # Домашнее задание к лекции 2 «Функции»
 
 ## Задача 1
