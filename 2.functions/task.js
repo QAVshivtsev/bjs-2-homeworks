@@ -85,5 +85,3 @@ function makeWork(arrOfArr, func) {
   }
   return maxWorkerResult;
 }
-console.log(makeWork(arr, summElementsWorker));
-console.log(makeWork(arr, differenceMaxMinWorker));
