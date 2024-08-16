@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2de0c7f7-e648-40cc-a0f2-d581a9cf8f8f)
+
+
 # Домашнее задание к лекции 3 «Массивы»
 
 ### Задача 1. Сравнить массивы
