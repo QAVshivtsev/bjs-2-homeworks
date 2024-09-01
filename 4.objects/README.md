@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/5db49af9-1749-4581-b3d1-f62a15e80caf)
+
+
 # Домашнее задание к лекции 4 «Объекты»
 
 ### Задача 1. Инкапсуляция студента
