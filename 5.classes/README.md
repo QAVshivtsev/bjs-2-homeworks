@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/93e368b4-ec0d-4b30-8eb4-123cebe6a3d5)
+
+
 # Домашнее задание к лекции 5 «Классы»
 
 ## Задача 1. Печатное издание
